@@ -16,7 +16,9 @@ The system streamlines data organization, improves traceability, and supports de
 - 🏭 **Inventory Management:** Monitor raw materials and finished product stock levels.  
 - 👩‍💼 **Employee Records:** Manage staff information and job roles.  
 - 📊 **Reporting Tools:** Generate summary reports for orders, sales, and stock.  
-- ✅ **Data Validation:** Input constraints and referential integrity to ensure data reliability.  
+- ✅ **Data Validation:** Input constraints and referential integrity to ensure data reliability.
+  ## Team Members
+- Kekeletso Maleka  
 ## 🧠 Database Design
 ### Concepts Applied
 - **Database Normalization:** Reduced redundancy using 3NF (Third Normal Form).  
